@@ -1,3 +1,5 @@
+Patched for custom hostname (avoid mdns reflection conflicts). Also listen on my netwrok interfaces
+
 # homeassistant addon cups airprint
 CUPS addon with working Avahi in reflector mode 
 
